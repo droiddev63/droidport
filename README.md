@@ -1,2 +1,2 @@
-# droidport
+# rp-portfolio
 portfolio theme
